@@ -40,12 +40,14 @@ TBD
 
 ## Source code
 
-Source code for fly control and stabilization ... TBD
-
 ### Design
 
-Sources are placed inside the src folder.
-You need OpenSCAD to compile them.
+Sources are placed inside the [src](src) folder.
+You need [OpenSCAD](http://www.openscad.org/) to compile them.
+
+### Fly control
+
+Source code for fly control and stabilization ... TBD
 
 ## License
 
