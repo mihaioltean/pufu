@@ -1,5 +1,4 @@
-# PuFU
-**Personal Flying Umbrella**
+# PuFU (Personal Flying Umbrella)
 
 An attempt to design and build a minimalistic flying vehicle.
 
