@@ -4,7 +4,7 @@ Personal Flying Umbrella
 An attempt to design and build a minimalistic flying vehicle.
 
 
-![Personal Flying Umbrella](https://github.com/mihaioltean/pufu/tree/main/pictures/personal_flying_umbrella.png)
+![Personal Flying Umbrella](https://github.com/mihaioltean/pufu/blob/main/pictures/personal_flying_umbrella.png)
 
 ## Goals
 
